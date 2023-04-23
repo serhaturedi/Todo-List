@@ -1,2 +1,2 @@
 # Todo-List
-Todo List with a React
+Todo List with React
